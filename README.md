@@ -1,2 +1,2 @@
 # Traffic-Counter
-Reepository of python codes(OPENCV being used)
+Repository of python codes(OPENCV being used)
